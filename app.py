@@ -96,7 +96,7 @@ htmlview="""
 .st-emotion-cache-vl2mil,.st-emotion-cache-1oc4c1q{
         color : black;
 }
-.st-emotion-cache-6urfhe p{
+.st-emotion-cache-6urfhe p,.st-emotion-cache-1fywqin p,.st-emotion-cache-1nzfg46 p{
         color:white;
 }
 
