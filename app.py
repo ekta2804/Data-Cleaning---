@@ -99,9 +99,7 @@ htmlview="""
 .st-emotion-cache-6urfhe p{
         color:white;
 }
-.st-emotion-cache-1nzfg46{
-        color:white;
-}
+
 </style>
 """
 st.html("""
