@@ -84,7 +84,7 @@ htmlview="""
         border-radius:10px 0px 0px 10px;
         font-weight:900;
 }
-.st-emotion-cache-1ix68xf,.st-emotion-cache-1bf0olv {
+.st-emotion-cache-1ix68xf,.st-emotion-cache-1bf0olv,.st-emotion-cache-1fywqin,.st-emotion-cache-1nzfg46 {
         color:#CADCFC;
 }
 .st-emotion-cache-1up3yna,.st-emotion-cache-4rsbii,.st-emotion-cache-wyoiad  {
